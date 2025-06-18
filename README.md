@@ -25,6 +25,6 @@ Mục tiêu:
 
 * Link figma:
 
-https://www.figma.com/design/0ZBVD8ygMMZKwgESfyQbfc/Untitled?node-id=0-1&m=dev&t=uyXXxX2iJaQvrUsU-1
+https://www.figma.com/design/0ZBVD8ygMMZKwgESfyQbfc/Untitled?node-id=0-1&m=dev&t=sbOBgW9hwenZx8uy-1
 
-[https://www.figma.com/proto/0ZBVD8ygMMZKwgESfyQbfc/Untitled?node-id=0-1&t=Wg7tNKJTX8Azyi35-1](https://www.figma.com/proto/0ZBVD8ygMMZKwgESfyQbfc/Untitled?node-id=0-1&t=uyXXxX2iJaQvrUsU-1)
+https://www.figma.com/proto/0ZBVD8ygMMZKwgESfyQbfc/Untitled?node-id=0-1&t=sbOBgW9hwenZx8uy-1
