@@ -20,7 +20,9 @@ Mục tiêu:
 
 * Báo cáo & thống kê: Hiển thị biểu đồ thu/chi theo ngày, tuần, tháng; So sánh tổng thu và tổng chi.
 
-## Phương thức nghiên cứu: Sử dụng Figma để tạo hình ảnh về các phần của ứng dụng, sử dụng Lucidchart hoặc Creatly hay Untitled Diagram để miêu tả cách triển khai ứng 
-* Link trang figma:
+## Phương thức nghiên cứu
+* Sử dụng Figma để tạo hình ảnh về các phần của ứng dụng, sử dụng Lucidchart hoặc Creatly hay Untitled Diagram để miêu tả cách triển khai ứng
+
+* Link figma:
 
 https://www.figma.com/proto/0ZBVD8ygMMZKwgESfyQbfc/Untitled?node-id=0-1&t=Wg7tNKJTX8Azyi35-1
